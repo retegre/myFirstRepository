@@ -1,0 +1,9 @@
+#This is an istruction to the markdown symbols 
+
+## Tese are the basic ones: 
+
+**Bold text** 
+*Italic text* 
+~~Strikethrough text~~ 
+**Mixed _text_** 
+***This one is both italic and bold and uses 3 asterisks***
